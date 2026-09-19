@@ -253,3 +253,8 @@ Prompt生成
 人物库目前收录来源中的 14 个风格、每风格 6 条角色描述，共 84 条。它们属于参考资产，不能直接当作某个项目的正式角色；正式项目应复制角色记录，补齐 `identity`、`appearance`、`wardrobe`、`signature`、`performance` 和 `story_state`，然后标记 `approved`。
 
 日常使用的简化指令见 `QUICK_COMMANDS.md`。单张图可以直接上传给 AI；只有需要长期复用、多人协作或连续镜头时，才需要保存到项目目录。
+
+## 与 AI 视频项目框架协同
+
+VDE 是视觉设计层，可与 E:\H3的技能 协同：VDE 负责视觉 DNA、色卡、人物圣经和场景规范；AI 视频项目框架负责项目状态、素材、分镜、模型提示词、续写和归档。H3、Wan3、Seedance 是模型分支，不是项目名称。详见 integrations/ai_video_project_bridge.md。
+
