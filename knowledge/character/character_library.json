@@ -1,0 +1,1604 @@
+{
+  "schema_version": "1.0",
+  "purpose": "VDE reference character asset index",
+  "source": "knowledge/visual_styles/style_library_source.md",
+  "policy": "Raw descriptions are preserved; empty Character Bible fields require project confirmation.",
+  "characters": [
+    {
+      "character_id": "style_01_char_01",
+      "style_id": "style_01",
+      "style_name": "三色 Technicolor 浓彩",
+      "source_line": 393,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，十几岁的少女，深棕色双辫系红色蝴蝶结，穿蓝白格纹罩裙白衬衫，脚穿红宝石亮片鞋，纯真笑容",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_01_char_02",
+      "style_id": "style_01",
+      "style_name": "三色 Technicolor 浓彩",
+      "source_line": 393,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，消瘦的高个子稻草人农夫，脸画油彩戴破旧尖顶黑帽，穿补丁天鹅绒外套与稻草填充的破裤，麻绳腰带",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_01_char_03",
+      "style_id": "style_01",
+      "style_name": "三色 Technicolor 浓彩",
+      "source_line": 393,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，黑衣女巫，尖顶宽边帽配一袭锐利剪裁的黑袍，绿色皮肤，瘦削阴森",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_01_char_04",
+      "style_id": "style_01",
+      "style_name": "三色 Technicolor 浓彩",
+      "source_line": 393,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，儒雅的中年歌舞明星穿黑色燕尾服戴高礼帽，手拿手杖，油头小胡子，笑容灿烂",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_01_char_05",
+      "style_id": "style_01",
+      "style_name": "三色 Technicolor 浓彩",
+      "source_line": 393,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，优雅的年轻南方贵妇穿宽大的白色纱裙裙撑，卷发配宽檐草帽，手持复古阳伞",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_01_char_06",
+      "style_id": "style_01",
+      "style_name": "三色 Technicolor 浓彩",
+      "source_line": 393,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，微胖的滑稽喜剧演员穿亮黄色雨衣雨裤戴小圆帽，咧嘴大笑，手拿小喇叭",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_02_char_01",
+      "style_id": "style_02",
+      "style_name": "新好莱坞暗调琥珀",
+      "source_line": 401,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，60多岁的意大利裔长者，庄重的黑色细条纹三件套西装，白衬衫黑领结，马甲挂怀表链，梳背头，威严平静",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_02_char_02",
+      "style_id": "style_02",
+      "style_name": "新好莱坞暗调琥珀",
+      "source_line": 401,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，30岁出头的男人，深棕头发剪裁整齐，穿棕色西装马甲与白衬衫，神情冷静忧郁",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_02_char_03",
+      "style_id": "style_02",
+      "style_name": "新好莱坞暗调琥珀",
+      "source_line": 401,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，40岁硬汉侦探，双排扣粗花呢风衣配费多拉软呢帽，鼻梁刀疤，神情疲惫多疑",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_02_char_04",
+      "style_id": "style_02",
+      "style_name": "新好莱坞暗调琥珀",
+      "source_line": 401,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，1930年代打扮的优雅女子，缎面长礼服配头巾与墨镜，红唇细眉，神秘莫测",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_02_char_05",
+      "style_id": "style_02",
+      "style_name": "新好莱坞暗调琥珀",
+      "source_line": 401,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，巴洛克时代贵族男子，酒红色织锦外套金线刺绣，扑粉假发，蕾丝袖口，手拄权杖",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_02_char_06",
+      "style_id": "style_02",
+      "style_name": "新好莱坞暗调琥珀",
+      "source_line": 401,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，洛可可式华丽裙装的贵妇，鲸骨裙撑缀满蕾丝缎带，高耸假发插羽毛，脸贴美人痣",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_03_char_01",
+      "style_id": "style_03",
+      "style_name": "铅黄电影 Giallo 高饱和迷幻",
+      "source_line": 409,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，高挑的女模特穿宝蓝色高开叉晚礼服与长手套，妆容浓艳，神情冷酷",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_03_char_02",
+      "style_id": "style_03",
+      "style_name": "铅黄电影 Giallo 高饱和迷幻",
+      "source_line": 409,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，全身黑色皮衣的黑发杀手，戴惨白面具，手持锋利的裁缝剪，身形瘦削",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_03_char_03",
+      "style_id": "style_03",
+      "style_name": "铅黄电影 Giallo 高饱和迷幻",
+      "source_line": 409,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，年轻女舞者穿灰色针织体操服披彩色围巾，赤脚，神情惊恐",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_03_char_04",
+      "style_id": "style_03",
+      "style_name": "铅黄电影 Giallo 高饱和迷幻",
+      "source_line": 409,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，老妇女巫穿猩红与黑色层叠长袍，白发蓬乱，戴十字架项链，眼神诡异",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_03_char_05",
+      "style_id": "style_03",
+      "style_name": "铅黄电影 Giallo 高饱和迷幻",
+      "source_line": 409,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，中年男侦探穿棕色皮夹克牛仔裤，胡子拉碴，手插口袋，眼神狐疑",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_03_char_06",
+      "style_id": "style_03",
+      "style_name": "铅黄电影 Giallo 高饱和迷幻",
+      "source_line": 409,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，酒馆歌女穿猩红色亮片吊带长裙，大波浪卷发浓妆艳抹，叼着长烟嘴",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_04_char_01",
+      "style_id": "style_04",
+      "style_name": "林奇式郊区怪奇",
+      "source_line": 417,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，深夜俱乐部歌女穿天蓝色丝绒晨袍与黑色内衬裙，深色蓬乱假发，浓妆泪痕，孤独神情",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_04_char_02",
+      "style_id": "style_04",
+      "style_name": "林奇式郊区怪奇",
+      "source_line": 417,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，年轻男子穿白T恤牛仔裤外搭黑色皮夹克，短发清爽，愣愣的无辜表情",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_04_char_03",
+      "style_id": "style_04",
+      "style_name": "林奇式郊区怪奇",
+      "source_line": 417,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，高中女孩穿浅粉色毛织连衣裙白领口，金色长发，纯真甜美的微笑",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_04_char_04",
+      "style_id": "style_04",
+      "style_name": "林奇式郊区怪奇",
+      "source_line": 417,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，西装革履的矮个男士，黑色西装油光头发，诡异的笑容，姿态怪异地摊开双手",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_04_char_05",
+      "style_id": "style_04",
+      "style_name": "林奇式郊区怪奇",
+      "source_line": 417,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，冷艳女子穿鲜红色上衣与黑色长裤，深棕色蓬松长发，神情迷茫恍惚",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_04_char_06",
+      "style_id": "style_04",
+      "style_name": "林奇式郊区怪奇",
+      "source_line": 417,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，郊区主妇穿鹅黄色针织上衣格纹半身裙，烫发配珍珠耳环，笑容僵硬完美",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_05_char_01",
+      "style_id": "style_05",
+      "style_name": "王家卫 × 杜可风 暧昧浓彩",
+      "source_line": 425,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，优雅的女子穿暗红色织锦高领长旗袍，精致盘发，身姿挺拔，含蓄忧郁",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_05_char_02",
+      "style_id": "style_05",
+      "style_name": "王家卫 × 杜可风 暧昧浓彩",
+      "source_line": 425,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，冷艳女子戴金色短假发与墨镜，米色风衣竖起领子，手夹香烟，神情冷酷",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_05_char_03",
+      "style_id": "style_05",
+      "style_name": "王家卫 × 杜可风 暧昧浓彩",
+      "source_line": 425,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，年轻男警察穿警服外露白背心，汗湿短发，憨厚而忧郁",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_05_char_04",
+      "style_id": "style_05",
+      "style_name": "王家卫 × 杜可风 暧昧浓彩",
+      "source_line": 425,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，娇小女孩穿复古空姐制服戴制帽，齐刘海短发，俏皮灵动，舔着雪糕",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_05_char_05",
+      "style_id": "style_05",
+      "style_name": "王家卫 × 杜可风 暧昧浓彩",
+      "source_line": 425,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，挺拔的男士穿深色三件套西装打领带，油头一丝不苟，克制深情",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_05_char_06",
+      "style_id": "style_05",
+      "style_name": "王家卫 × 杜可风 暧昧浓彩",
+      "source_line": 425,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，冷艳女杀手穿黑色皮衣皮裤配黑色假发与墨镜，高挑冷酷，手持相机",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_06_char_01",
+      "style_id": "style_06",
+      "style_name": "张艺谋大色块",
+      "source_line": 433,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，侠女穿正红色绸缎宽袖武袍，长发飞舞，手持长剑，眼神凌厉",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_06_char_02",
+      "style_id": "style_06",
+      "style_name": "张艺谋大色块",
+      "source_line": 433,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，男剑客穿钴蓝色宽袖长袍束发玉簪，持青铜剑，冷静儒雅",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_06_char_03",
+      "style_id": "style_06",
+      "style_name": "张艺谋大色块",
+      "source_line": 433,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，秦王穿黑色冕服配金色纹样，头戴冕旒冠，威严庄重，负手而立",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_06_char_04",
+      "style_id": "style_06",
+      "style_name": "张艺谋大色块",
+      "source_line": 433,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，宫女穿白色斗篷素色襦裙，手执扫帚，低眉顺目，标准队列站姿",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_06_char_05",
+      "style_id": "style_06",
+      "style_name": "张艺谋大色块",
+      "source_line": 433,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，鼓手穿金黄色劲装束红色腰带，肌肉紧实，双手持鼓槌，气势昂扬",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_06_char_06",
+      "style_id": "style_06",
+      "style_name": "张艺谋大色块",
+      "source_line": 433,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，琴师穿青绿色广袖长袍，长发半束，端坐古琴前，神色空灵",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_07_char_01",
+      "style_id": "style_07",
+      "style_name": "韦斯·安德森对称粉彩",
+      "source_line": 441,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，年轻门童穿紫色制服外套与同色船形帽，黄铜纽扣，双手交叠在身前，紧张而礼貌",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_07_char_02",
+      "style_id": "style_07",
+      "style_name": "韦斯·安德森对称粉彩",
+      "source_line": 441,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，甜美的女糕点师穿粉白围裙制服戴头巾，双手捧粉色糕点盒，笑容精致",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_07_char_03",
+      "style_id": "style_07",
+      "style_name": "韦斯·安德森对称粉彩",
+      "source_line": 441,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，中年礼宾穿黑色燕尾服白手套，八字胡，站姿笔挺，神情威严",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_07_char_04",
+      "style_id": "style_07",
+      "style_name": "韦斯·安德森对称粉彩",
+      "source_line": 441,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，12岁男孩穿卡其色童子军制服戴浣熊皮帽，肩章领巾齐全，神气十足",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_07_char_05",
+      "style_id": "style_07",
+      "style_name": "韦斯·安德森对称粉彩",
+      "source_line": 441,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，早熟的少女穿粉色半裙白袜黑皮鞋，把书本抱在胸前，神情忧郁",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_07_char_06",
+      "style_id": "style_07",
+      "style_name": "韦斯·安德森对称粉彩",
+      "source_line": 441,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，女策展人穿橙色连衣裙别着胸针，短发整齐，戴白手套，一本正经",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_08_char_01",
+      "style_id": "style_08",
+      "style_name": "热内式金绿梦幻",
+      "source_line": 449,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，娇小女子穿鲜红色连衣裙，黑色齐耳波波头配红色发箍，大眼睛好奇，微微歪头",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_08_char_02",
+      "style_id": "style_08",
+      "style_name": "热内式金绿梦幻",
+      "source_line": 449,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，粗壮的屠夫穿沾着污渍的白围裙，络腮胡，手握剁刀，表情夸张",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_08_char_03",
+      "style_id": "style_08",
+      "style_name": "热内式金绿梦幻",
+      "source_line": 449,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，神秘男子穿黑色长大衣戴圆礼帽，右眼是大型单片望远镜，双手比着怪异手势",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_08_char_04",
+      "style_id": "style_08",
+      "style_name": "热内式金绿梦幻",
+      "source_line": 449,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，瘦弱男孩穿蓝白条纹毛衣，惊恐的大眼睛，苍白瘦削，抱着膝盖",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_08_char_05",
+      "style_id": "style_08",
+      "style_name": "热内式金绿梦幻",
+      "source_line": 449,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，康康舞舞者穿黑色羽毛头饰与荷叶边舞裙，丝袜吊带袜，定格踢腿姿势",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_08_char_06",
+      "style_id": "style_08",
+      "style_name": "热内式金绿梦幻",
+      "source_line": 449,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，白发老匠人穿深绿色工装围裙，老花镜推在额头，手捧金色玻璃鸟，慈祥专注",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_09_char_01",
+      "style_id": "style_09",
+      "style_name": "冷绿惊悚 & 漂白旁路",
+      "source_line": 457,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，40岁警探穿米色风衣皱衬衫，领带松垮，黑眼圈胡茬，手插口袋疲惫警觉",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_09_char_02",
+      "style_id": "style_09",
+      "style_name": "冷绿惊悚 & 漂白旁路",
+      "source_line": 457,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，年轻警探穿浸湿的白衬衫挂着警徽，领带歪斜，眼神紧绷愤怒",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_09_char_03",
+      "style_id": "style_09",
+      "style_name": "冷绿惊悚 & 漂白旁路",
+      "source_line": 457,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，消瘦的嫌疑人穿灰色旧毛衣与长裤，头发凌乱，面无表情平静得可怕",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_09_char_04",
+      "style_id": "style_09",
+      "style_name": "冷绿惊悚 & 漂白旁路",
+      "source_line": 457,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，苍白的女子穿暗红色风衣，是画面唯一的暖色，眼神惊恐",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_09_char_05",
+      "style_id": "style_09",
+      "style_name": "冷绿惊悚 & 漂白旁路",
+      "source_line": 457,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，法医穿白大褂外罩深色毛开衫，戴老花镜，手提证物箱，严谨疲惫",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_09_char_06",
+      "style_id": "style_09",
+      "style_name": "冷绿惊悚 & 漂白旁路",
+      "source_line": 457,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，凶手穿土褐色旧夹克便装，帽檐压得很低，看不请面容，平静诡异",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_10_char_01",
+      "style_id": "style_10",
+      "style_name": "Teal & Orange 大片色",
+      "source_line": 465,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，硬汉战士穿破旧皮衣与护具，额头油黑烟熏战纹，左臂机械义肢，肌肉与伤痕",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_10_char_02",
+      "style_id": "style_10",
+      "style_name": "Teal & Orange 大片色",
+      "source_line": 465,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，瘦削的战童全身涂白垩白漆，嘴部喷银漆，护目镜推在额头，狂热笑容",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_10_char_03",
+      "style_id": "style_10",
+      "style_name": "Teal & Orange 大片色",
+      "source_line": 465,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，女指挥官穿战术护具配全金属机械左臂，油黑烟熏妆，神情坚毅",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_10_char_04",
+      "style_id": "style_10",
+      "style_name": "Teal & Orange 大片色",
+      "source_line": 465,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，魁梧的暴君穿骨白色铠甲，戴肋骨造型呼吸面罩，白发惨白皮肤，威压逼人",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_10_char_05",
+      "style_id": "style_10",
+      "style_name": "Teal & Orange 大片色",
+      "source_line": 465,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，星舰船员穿钴蓝色制服别着通讯徽章，发型一丝不苟，青春干练",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_10_char_06",
+      "style_id": "style_10",
+      "style_name": "Teal & Orange 大片色",
+      "source_line": 465,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，魁梧反派光头满脸刺青，穿黑色破烂铠甲与披肩，冷酷凶狠",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_11_char_01",
+      "style_id": "style_11",
+      "style_name": "赛博朋克霓虹夜",
+      "source_line": 473,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，仿生警探穿黑色长风衣羊毛翻领，内搭高领衫，短发利落，神情孤独",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_11_char_02",
+      "style_id": "style_11",
+      "style_name": "赛博朋克霓虹夜",
+      "source_line": 473,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，复古歌女穿40年代权力垫肩套装，黑色卷发盘发，红唇浓妆，叼着烟嘴",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_11_char_03",
+      "style_id": "style_11",
+      "style_name": "赛博朋克霓虹夜",
+      "source_line": 473,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，仿生歌女穿半透明粉色轻纱紧身衣，粉色齐腰假发，身体边缘泛全息微光",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_11_char_04",
+      "style_id": "style_11",
+      "style_name": "赛博朋克霓虹夜",
+      "source_line": 473,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，少年暴走族穿红色队夹克竖起领子，飞机头发型，跨坐在红色摩托上，桀骜不驯",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_11_char_05",
+      "style_id": "style_11",
+      "style_name": "赛博朋克霓虹夜",
+      "source_line": 473,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，佣兵穿防弹背心，机械改造手臂与颈部接口外露，满脸伤疤，冷酷务实",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_11_char_06",
+      "style_id": "style_11",
+      "style_name": "赛博朋克霓虹夜",
+      "source_line": 473,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，四臂机器人厨师戴白色厨师帽与围裙，多只机械手同时颠勺切菜，蒸汽环绕",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_12_char_01",
+      "style_id": "style_12",
+      "style_name": "自然光魔幻时刻",
+      "source_line": 481,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，农妇穿晒褪色的棉布连衣裙系粗布围裙，戴草帽，手挽藤篮，神情温柔",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_12_char_02",
+      "style_id": "style_12",
+      "style_name": "自然光魔幻时刻",
+      "source_line": 481,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，中年守塔人穿粗呢外套高领毛衣，络腮胡，手提风灯，风尘仆仆",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_12_char_03",
+      "style_id": "style_12",
+      "style_name": "自然光魔幻时刻",
+      "source_line": 481,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，阳光少年穿宽松白亚麻衬衫卷起裤脚，赤脚扶着自行车，笑容灿烂",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_12_char_04",
+      "style_id": "style_12",
+      "style_name": "自然光魔幻时刻",
+      "source_line": 481,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，母亲穿素色衬衫长裙系围裙，卷发一丝不苟，温柔而疲惫",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_12_char_05",
+      "style_id": "style_12",
+      "style_name": "自然光魔幻时刻",
+      "source_line": 481,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，猎人穿厚重兽皮与羊毛大衣，胡须结霜，眼神坚毅沧桑，背着行囊",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_12_char_06",
+      "style_id": "style_12",
+      "style_name": "自然光魔幻时刻",
+      "source_line": 481,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，女子穿被水浸湿的白色棉布长裙，赤脚提裙，长发湿贴脸颊，宁静神秘",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_13_char_01",
+      "style_id": "style_13",
+      "style_name": "日系青春逆光",
+      "source_line": 489,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，女高中生穿白色夏季水手服深蓝裙，齐肩黑发被风吹起，手抱书包，笑容清澈",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_13_char_02",
+      "style_id": "style_13",
+      "style_name": "日系青春逆光",
+      "source_line": 489,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，男高中生穿敞开的白衬衫与校裤，头发被风吹乱，手推自行车，阳光爽朗",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_13_char_03",
+      "style_id": "style_13",
+      "style_name": "日系青春逆光",
+      "source_line": 489,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，女孩穿蓝底金鱼图案棉质浴衣与木屐，头发盘起别一朵花，手提金鱼袋",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_13_char_04",
+      "style_id": "style_13",
+      "style_name": "日系青春逆光",
+      "source_line": 489,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，文艺男生穿宽大的米色毛衣与长裤，厚刘海，戴耳机，气质安静忧郁",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_13_char_05",
+      "style_id": "style_13",
+      "style_name": "日系青春逆光",
+      "source_line": 489,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，芭蕾女生穿深色练功服与软底舞鞋，头发盘成发髻，脚背绷直，专注安静",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_13_char_06",
+      "style_id": "style_13",
+      "style_name": "日系青春逆光",
+      "source_line": 489,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，年轻男白领穿白衬衫灰西裤松领带，手提公文包，疲惫而温柔",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_14_char_01",
+      "style_id": "style_14",
+      "style_name": "A24 当代自然主义",
+      "source_line": 497,
+      "asset_role": "角色 A",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，中年母亲穿灰绿色旧毛衣与牛仔裤，头发随意挽起，素颜憔悴，眼神不安",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_14_char_02",
+      "style_id": "style_14",
+      "style_name": "A24 当代自然主义",
+      "source_line": 497,
+      "asset_role": "角色 B",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，十岁男孩穿偏大的棕色旧毛衣，短发稀疏，神情早熟而警惕",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_14_char_03",
+      "style_id": "style_14",
+      "style_name": "A24 当代自然主义",
+      "source_line": 497,
+      "asset_role": "角色 C",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，公社女子穿白色亚麻长裙头戴花环，赤脚，宁静微笑下藏着一丝诡异",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_14_char_04",
+      "style_id": "style_14",
+      "style_name": "A24 当代自然主义",
+      "source_line": 497,
+      "asset_role": "角色 D",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，年轻女孩穿明黄色连衣裙，编发，表情空洞迷茫，站在人群外",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_14_char_05",
+      "style_id": "style_14",
+      "style_name": "A24 当代自然主义",
+      "source_line": 497,
+      "asset_role": "角色 E",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，1630年代清教徒父亲穿深色羊毛上衣配白色立领，宽檐帽，胡须粗硬，神情严峻",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    },
+    {
+      "character_id": "style_14_char_06",
+      "style_id": "style_14",
+      "style_name": "A24 当代自然主义",
+      "source_line": 497,
+      "asset_role": "角色 F",
+      "description": "面部与服装细节清晰，干净的浅灰色摄影棚背景，柔和均匀布光，清教徒少女穿灰蓝羊毛连衣裙配白色亚麻头巾，眼神纯真与恐惧交织",
+      "identity": null,
+      "appearance": null,
+      "wardrobe": null,
+      "signature": null,
+      "performance": null,
+      "source": "source_asset_description",
+      "status": "reference_asset_only",
+      "notes": [
+        "原文只提供一段测试角色描述；未将其推断为完整项目角色。",
+        "人物圣经字段需在具体项目中确认。"
+      ]
+    }
+  ]
+}
